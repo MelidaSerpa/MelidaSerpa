@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mélida Serpa</h1>
-- 🤝 I’m looking for a job **as a Network Engineer or Technical support agent**
+- 🤝 I’m looking for a job as a <a style="font-weight:bold;">Network Engineer or Technical support agent</a>
 
 - 📫 How to reach me **smelidaelizabeth@gmail.com**
 
